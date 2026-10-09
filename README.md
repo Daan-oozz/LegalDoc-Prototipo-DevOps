@@ -11,5 +11,4 @@ Para ejecutar este prototipo en su máquina local, asegúrese de tener instalado
 ### Paso 1: Clonar el repositorio
 Descargue el código fuente en su equipo ejecutando en su terminal:
 ```bash
-git clone <https://github.com/Daan-oozz/LegalDoc-Prototipo-DevOps>
-cd LegalDoc-Prototipo-DevOps
+git clone [https://github.com/Daan-oozz/LegalDoc-Prototipo-DevOps.git](https://github.com/Daan-oozz/LegalDoc-Prototipo-DevOps.git)
